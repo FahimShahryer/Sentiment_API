@@ -12,41 +12,42 @@ perform the sentiment analysis task.
 
 ● Getting Started
 
-○ Prerequisites
+  ○ Prerequisites
 
-○ Installation
+  ○ Installation
 
 ● Sentiment Analysis Model from Huggingface
 
-○ Saving the Model Locally (Recommended)
+  ○ Saving the Model Locally (Recommended)
 
-○ Using the Model Directly from Huggingface (Not Recommended)
+  ○ Using the Model Directly from Huggingface (Not Recommended)
 
 ● Running the API
 
 ● Endpoints
 
-○ URL: <http://127.0.0.1:8000/analyze/>
+  ○ URL: <http://127.0.0.1:8000/analyze/>
 
-○ Method: POST
+  ○ Method: POST
 
-○ Request Body Parameters
+  ○ Request Body Parameters
 
-○ Example Body Parameter (JSON content)
+  ○ Example Body Parameter (JSON content)
 
-○ Success Response
+  ○ Success Response
 
 ● Handling Huggingface Input/Output JSON Format
 
-○ Input JSON Format
+  ○ Input JSON Format
 
-○ Output JSON Format
+  ○ Output JSON Format
 
-○ Label to Sentiment Mapping
+  ○ Label to Sentiment Mapping
 
 ● Error Handling
 
-○ Error Handling Example
+  ○ Error Handling Example
+  
 
 **Getting Started**
 
